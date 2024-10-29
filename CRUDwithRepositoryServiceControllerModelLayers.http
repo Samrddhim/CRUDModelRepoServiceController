@@ -1,0 +1,6 @@
+@CRUDwithRepositoryServiceControllerModelLayers_HostAddress = http://localhost:5244
+
+GET {{CRUDwithRepositoryServiceControllerModelLayers_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
